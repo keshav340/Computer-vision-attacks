@@ -1,0 +1,3 @@
+Normal accuracy  98.1
+Normal Model  Adversarial image  64.99
+Defence Model Adversarial image - 95.2
